@@ -2,8 +2,8 @@
 	"data": {
 		"Home": [{
 				"image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/accept_payments.png",
-				"imageHeight": 200,
-				"imageWidth": 200,
+				"imageHeight": 400,
+				"imageWidth": 400,
 				"onPageURL": "",
 				"toPageURL": "OnBoardingPaisaPlus",
 				"routeOptions": {

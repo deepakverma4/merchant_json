@@ -2,8 +2,8 @@
 	"data": {
 		"Home": [{
 				"image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/accept_payments.png",
-				"imageHeight": 109,
-				"imageWidth": 117,
+				"imageHeight": 40,
+				"imageWidth": 40,
 				"onPageURL": "",
 				"toPageURL": "OnBoardingPaisaPlus",
 				"routeOptions": {
@@ -17,8 +17,8 @@
 					"hi": "मेरे ऑफर and the data and the data"
 				},
 				"description": {
-					"en": "Now create and share an exciting discount offer.Go to the offer for more details.Now create and share an exciting discount offer.Go to the offer for more details",
-					"hi": "अब अपने ग्राहकों के लिए एक रोमांचक.go to the offer for more detail.Now create and share an exciting discount offer.Go to the offer for more details"
+					"en": "Now create athe offer for more details",
+					"hi": "अब अपने ग्राहकों के tails"
 				},
 				"priority": 3,
 				"buttonText": {
@@ -47,9 +47,9 @@
 				"id": 2
 			},
 			{
-				"image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/remove_notification_list_limit.png",
-				"imageHeight": 83,
-				"imageWidth": 215,
+				"image": "https://www.google.com/",
+				"imageHeight": 40,
+				"imageWidth": 40,
 				"onPageURL": "",
 				"toPageURL": "NotificationListScreen",
 				"titleText": {
@@ -57,8 +57,8 @@
 					"hi": "अधिसूचना सूची सदस्य सीमा"
 				},
 				"description": {
-					"en": "Dear Merchant, a limit on your notification list numbers will be implemented soon. Please remove excess numbers that are not required to be notified about transaction activity from the list.",
-					"hi": "प्रिय व्यापारी, आपकी अधिसूचना सूची संख्या की एक सीमा जल्द ही लागू की जाएगी। कृपया नीचे क्लिक करके उन अतिरिक्त नंबरों को हटा दें जिन्हें लेन-देन गतिविधि के बारे में सूचित करने की आवश्यकता नहीं है।"
+					"en": "Dear Merchant, a limit on yourmbers that are list.",
+					"hi": "प्रिय व्यापारी, आपकी अधिसूचना सूची रे में सूचित करने की आवश्यकता नहीं है।"
 				},
 				"buttonText": {
 					"en": "Go to Notification List",

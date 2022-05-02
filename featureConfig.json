@@ -28,12 +28,12 @@
 				"id": 1
 			},
 			{
-				"image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/dashboard_illustration.png",
+				"image": "http://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/dashboard_illustration.png",
 				"onPageURL": "",
-				"toPageURL": "DashboardScreen",
+				"toPageURL": "",
 				"titleText": {
-					"en": "Dashboard",
-					"hi": "डैशबोर्ड"
+					"en": "Dashboard data",
+					"hi": "डैशबोर्ड data"
 				},
 				"description": {
 					"en": "Now track your transaction count and amount on a hourly, daily, weekly and monthly level. The dashboard icon is available in your My Products section on Home.Now track your transaction count and amount on a hourly, daily, weekly and monthly level. The dashboard icon is available in your My Products section on Home.",

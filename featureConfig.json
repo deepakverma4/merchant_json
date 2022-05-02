@@ -50,7 +50,7 @@
 				"image": "https://www.google.com/",
 				"imageHeight": 40,
 				"imageWidth": 40,
-				"onPageURL": "",
+				"onPageURL": "https://www.google.com/",
 				"toPageURL": "NotificationListScreen",
 				"titleText": {
 					"en": "Notification List Members Limit",

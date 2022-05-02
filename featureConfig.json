@@ -51,7 +51,7 @@
 				"imageHeight": 40,
 				"imageWidth": 40,
 				"onPageURL": "https://www.google.com/",
-				"toPageURL": "NotificationListScreen",
+				"toPageURL": "data",
 				"titleText": {
 					"en": "Notification List Members Limit",
 					"hi": "अधिसूचना सूची सदस्य सीमा"

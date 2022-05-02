@@ -2,8 +2,8 @@
 	"data": {
 		"Home": [{
 				"image": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/accept_payments.png",
-				"imageHeight": 150,
-				"imageWidth": 150,
+				"imageHeight": 109,
+				"imageWidth": 117,
 				"onPageURL": "",
 				"toPageURL": "OnBoardingPaisaPlus",
 				"routeOptions": {
@@ -13,17 +13,17 @@
 					}
 				},
 				"titleText": {
-					"en": "My Offers and the data",
-					"hi": "मेरे ऑफर and the data"
+					"en": "My Offers and the data and the data",
+					"hi": "मेरे ऑफर and the data and the data"
 				},
 				"description": {
-					"en": "Now create and share an exciting discount offer.Go to the offer for more details",
-					"hi": "अब अपने ग्राहकों के लिए एक रोमांचक.go to the offer for more detail"
+					"en": "Now create and share an exciting discount offer.Go to the offer for more details.Now create and share an exciting discount offer.Go to the offer for more details",
+					"hi": "अब अपने ग्राहकों के लिए एक रोमांचक.go to the offer for more detail.Now create and share an exciting discount offer.Go to the offer for more details"
 				},
 				"priority": 3,
 				"buttonText": {
-					"en": "Go to My",
-					"hi": "मेरे ऑफर "
+					"en": "Go to My offer and the data",
+					"hi": "मेरे ऑफर and the data and the data "
 				},
 				"id": 1
 			},

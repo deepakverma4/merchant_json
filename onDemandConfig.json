@@ -27,7 +27,7 @@
         "platform": "android",
         "minVersion": "0.0.0",
         "viewCount": 2,
-        "userType": "DEALER"
+        "userType": "MERCHANT"
       },
       {
         "image": "",
@@ -46,7 +46,7 @@
         "platform": "android",
         "minVersion": "0.0.0",
         "viewCount": 3,
-        "userType": "MERCHANT"
+        "userType": "DEALER"
       },
       {
         "imagee": "https://fcapp-cdn.freecharge.in/merchant/mobile/images/featureShowcase/remove_notification_list_limit.png",

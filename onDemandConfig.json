@@ -7,7 +7,7 @@
         "imageHeight": 109,
         "imageWidth": 116,
         "onPageURL": "",
-        "toPageURL": "SuperCoinScreens",
+        "toPageURL": "OnBoardingPaisaPlus",
         "routeOptions": {
            "screen": "SuperCoinScreens",
            "params": { "screen": "MyOffersTabsLayout" }

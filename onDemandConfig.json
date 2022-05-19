@@ -25,7 +25,7 @@
         },
         "id": 1,
         "platform": "android",
-        "minVersion": "3.0.31",
+        "minVersion": "3.0.28",
         "viewCount": 2,
         "userType": "DEALER"
       },
@@ -67,7 +67,7 @@
         "priority": 2,
         "id": 3,
         "platform": "",
-        "minVersion": "3.0.32",
+        "minVersion": "3.0.28",
         "viewCount": 1,
         "userType": ""
       }

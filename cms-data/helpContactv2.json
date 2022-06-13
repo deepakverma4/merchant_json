@@ -260,92 +260,6 @@
             ]
         },
         {
-            "key": "Subscription",
-            "subHeading": "Get Help regarding subscription",
-            "value": [
-                {
-                    "key": "Plan Benefits",
-                    "value": [
-                        {
-                            "label": "What are monthly plan benefits?",
-                            "value": "a. You will be charged only 0.1% of instant settlement\nb. Credit Card charges will be reduced for you depending on your merchant category\nc. Order upto 1 QR per quarter as free replacement\nd. Issue bills/invoice to your customers with link for payment collection\ne. Get Life Insurance of 1 Lakh from Max Life\nf. Get Personal Accident covered from Tata AIG of Rs 2,00,000\ng. Get Rewards upto Rs 100 coupons on plan renewals which you can use on Freecharge App for bill payments and recharges",
-                            "showContactUs": true
-                        },
-                        {
-                            "label": "What are yearly plan benefits?",
-                            "value": "a. Get instant settlement for Free all year long. No charges.\nCredit Card charges will be reduced for you depending on your merchant category\n b. Order upto 1 QR per quarter as free replacement\nc. Issue bills/invoice to your customers with link for payment collection\nd. Get Life Insurance of 1 Lakh from Max Life\ne. Get Rs 500/day for 30 days Hospital Cash in case of emergency covered from Tata AIG\nf. Get Rewards upto Rs 1000 cash on taking payments from customers",
-                            "showContactUs": true
-                        },
-                        {
-                            "label": "What is the validity of Plans?",
-                            "value": "Monthly Plan is valid for a Month from the date of Purchase/Sign Up. Similarly, the Annual Plan is valid for a Year from the date of Purchase.Subsequently, your plan will be automatically renewed and the validity will be extended according to the Plan you have Subscribed to.",
-                            "showContactUs": true
-                        },
-                        {
-                            "label": "I haven’t got Insurance details after subscription to a Plan?",
-                            "value": "You would need to fill in the insurance details for issuance of insurance by our partners. In case you have not done please click the star icon from the bottom bar and fill in. If you have submitted the details your details are there in the star section for reference.",
-                            "showContactUs": true
-                        }
-                    ]
-                },
-                {
-                    "key": "Plan Cancellation",
-                    "value": [
-                        {
-                            "label": "How can I cancel Subscription?",
-                            "value": "We would want you to keep enjoying the subscription benefits but in case you still want to do please submit your request by clicking Yes below. Our team will contact you for further action.",
-                            "showContactUs": true
-                        },
-                        {
-                            "label": "Will I get Refund for Cancellation?",
-                            "value": "No. Refunds will not be processed. On cancellation, your request will be taken and Auto Renewal will be stopped at the end of Billing Cycle will not take effect. You can utilize the Plan benefits until the end of the validity period.",
-                            "showContactUs": true
-                        },
-                        {
-                            "label": "How will I get offers or Cashback mentioned in the Plan?",
-                            "value": "You will receive offers on every alternate month renewal. 1st, 3rd, 5th, 8th, 12th month.If you discontinue in between, you will not be eligible for rewards again upto next 6 months.",
-                            "showContactUs": true
-                        },
-                        {
-                            "label": "Will I be eligible for Insurance Claims if my Subscription gets canceled?",
-                            "value": "Your insurance policy is valid till the time you are subscribed with us. As soon as your subscription ends your policy also ends.",
-                            "showContactUs": true
-                        }
-                    ]
-                },
-                {
-                    "key": "Plan Upgrade",
-                    "value": [
-                        {
-                            "label": "How can I upgrade to an Annual Plan?",
-                            "value": "On Freecharge Business App, you will see an option to Upgrade. You will be required to pay for the Plan Amount, and you will be upgraded to the new plan after the validity of Current Plan ends.",
-                            "showContactUs": true
-                        },
-                        {
-                            "label": "How can I downgrade from Annual Plan to Monthly Plan?",
-                            "value": "We would not want you to downgrade your Annual Plan but in case you still want to do please submit your request by clicking Yes below. Our team will contact you for further action.",
-                            "showContactUs": true
-                        }
-                    ]
-                },
-                {
-                    "key": "Plan Renewal",
-                    "value": [
-                        {
-                            "label": "What does Auto Renewal mean?",
-                            "value": "Your plan will be auto-renewd automatically post your first payment. Towards the end of Plan validity, Freecharge will attempt to deduct payments from your Settlements directly.\n\nWith Auto Renewal, you don’t have to worry about validity. All you are required to do is keep accepting Payments from the Customers.",
-                            "showContactUs": true
-                        },
-                        {
-                            "label": "What if I don’t have enough Settlement balance?",
-                            "value": "Freecharge will attempt to deduct Plan Amount from Settlement for a few days until validity ends for your subscription. Your Settlement will be put on HOLD until Amount equal to Plan Amount is accumulated.\n\nIf at the end of validity, Freecharge is not able to deduct Amount from Settlement, your Subscription will be canceled and any pending Settlements will be released the next day.",
-                            "showContactUs": true
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "key": "Business Loans",
             "subHeading": "Get Help regarding Business Loans",
             "value": [
@@ -354,77 +268,67 @@
                     "value": [
                         {
                             "label": "What is a Business Loan?",
-                            "value": "Business Loan is service offered by Freecharge in partnership with Axis Bank to help merchants grow their Business.\n\nThis can be used for renovation, inventory purchase or business expansion.",
+                            "value": "Business Loan is a service offered by Freecharge Business in partnership with Axis Bank to help merchants grow their businesses. Merchants can take the loan for inventory purchase, business expansion, renovation, or any business-related requirements.",
                             "showContactUs": true
                         },
                         {
-                            "label": "How will I know if I am eligible?",
-                            "value": "Tap on Loan Icon on Home Screen to check if you are eligible or not. If you are eligible, you will be prompted to Apply for Loan. Actual Loan eligibility will be decided y our partner Axis Bank.\n\nAlternartively, our Agents may reach out to you or you will receive notificaitons through SMS/Email or Push Notifications.",
+                            "label": "What is the amount of Business loan being offered?",
+                            "value": "Merchants can avail  Business Loans of up to ₹2 lakhs.",
                             "showContactUs": true
                         },
                         {
-                            "label": "How can I become eligible for Loan?",
-                            "value": "In general, if you spend good amount of time with Freecharge Business, transact frequently and accept payments from many customers, then you will be become eligible for Loan.\n\nHowever, these are not the only criterion. Axis Bank will determine your eligibility basis credit score, outstanding dues & repayment history etc.",
+                            "label": "How can a merchant check whether he/she is eligible for a loan or not?",
+                            "value": "Open Freecharge Business App and tap on the Loan icon visible on the home screen. If the merchant is eligible, he or she will be able to proceed to the next steps. If not, the merchant will be asked to start transacting more to become eligible.",
                             "showContactUs": true
                         },
                         {
-                            "label": "Who is providing the loan?",
-                            "value": "Freecharge has partnered with Axis Bank to offer you this service so that it is easy for you to take loan, grow your business with easy repayments through Settlements.",
+                            "label": "How can a merchant become eligible for a Loan?",
+                            "value": "To become eligible for a Business Loan from Freecharge Business, a merchant needs to accept payments regularly from customers on Freecharge QR. However, we will check the credit score, outstanding dues, repayment history, etc.",
                             "showContactUs": true
                         }
                     ]
                 },
                 {
-                    "key": "Loan Application",
+                    "key": "Loan Applicaton",
                     "value": [
                         {
-                            "label": "What documents are required for the loan?",
-                            "value": "Freecharge loan is completely paperless with Zero physical documentation required. Our Partner, Axis Bank has completely digital application process. This process will involve Aadhaar verificaiton & Video KYC with personnel of the Bank.",
+                            "label": "What documents are required for a loan?",
+                            "value": "Only Aadhaar verification & Video KYC with bank's personnel is required. No physical documents/collateral is required.",
                             "showContactUs": true
                         },
                         {
-                            "label": "What will be the interest rate charged?",
-                            "value": "Loan Offer made will be different for each merchant. You will be shown all details along with Loan Offer during the application process.",
+                            "label": "Where can a merchant check the interest rate?",
+                            "value": "The merchant can check the interest rate and all other details during the loan application process.",
                             "showContactUs": true
                         },
                         {
-                            "label": "What will be the loan amount and tenure?",
-                            "value": "Loan Amount & Tenure offered will be as per Axis Bank's evalauation of your creditworthiness and volume of transaction processed on Freecharge.\n\nTypical tenures offered are 3, 6, 9 & 12 months. Loans upto 5 Lakh can be offered to you.",
-                            "showContactUs": true
-                        },
-                        {
-                            "label": "What gaurantee/collateral do I have to keep for the loan?",
-                            "value": "This is a zero collateral loan and no collateral will be demanded for processing the loan.",
+                            "label": "What will be the loan amount and repayment period?",
+                            "value": "Loan amount and repayment period will be as per Axis Bank's evaluation of your creditworthiness and the number of transactions done via Freecharge Business. In general, the loan amount offered is up to ₹2 Lakhs and the repayment period offered is 3, 6, 9 or 12 months.",
                             "showContactUs": true
                         },
                         {
                             "label": "Are there any additional charges for processing the loan?",
-                            "value": "Processing Fee will be charged. Axis Bank will show Processing Fee in the Loan details while making you an offer.",
+                            "value": "Yes, a processing fee will be charged during the processing of the loan.",
                             "showContactUs": true
                         },
                         {
-                            "label": "I have completed my application. When will I receive the loan?",
-                            "value": "After you complete your application on the app, Axis Bank (our partner) will disburse the loan into your account within 7 working days if approved.",
+                            "label": "Once the loan application is submitted, when does the loan get disbursed?",
+                            "value": "After the completion of the loan application, our partner (Axis Bank) will disburse the loan amount into the merchant's account within 7 working days, if approved.",
                             "showContactUs": true
                         },
                         {
-                            "label": "What is the status of my loan application?",
-                            "value": "You can check your loan application status by visiting the Loan section on the App. If a Loan is disbursed, then Loan information will be shown on App.\n\nRepayment history will be shown along with summary of loan.",
+                            "label": "How can a merchant check the status of a loan application?",
+                            "value": "Merchant can check the loan application status by visiting the Loan section on the Freecharge Business App. If the loan is disbursed, all loan related information such as  repayment period, interest, etc. will be visible.",
                             "showContactUs": true
                         },
                         {
-                            "label": "My current account has been opened but I was not offered a loan.",
-                            "value": "If you were not offered a loan and you chose to open 0 Balance Current Account with Axis Bank, then you can start using Current Account.\n\nPlease continue to transact via Freecharge & use Current Account regularly to become eligible for Loan in future.",
+                            "label": "Is it possible that Merchant's current account has opened but he has not been offered a loan?",
+                            "value": "If a merchant has not been offered a loan he can still open and use a zero balance Current Account with Axis Bank.",
                             "showContactUs": true
                         },
                         {
-                            "label": "Where will the loan amount be credited?",
-                            "value": "When you complete the application, Axis Bank will open a 0 balance current account. Loan Amount will be dibursed in the current account.",
-                            "showContactUs": true
-                        },
-                        {
-                            "label": "Who is the lender providing the loan?",
-                            "value": "The lender for the loan is Axis Bank. Axis Bank is a trusted partner with support provided to you at your closest Loan Center.",
+                            "label": "In which account the loan amount will be credited?",
+                            "value": "Once the loan is approved and ready for disbursal, Axis Bank will open a zero balance current account in which the loan amount will be disbursed.",
                             "showContactUs": true
                         }
                     ]
@@ -433,28 +337,28 @@
                     "key": "Loan Repayments",
                     "value": [
                         {
-                            "label": "How will I repay the loan?",
-                            "value": "We will deduct daily installment amount from your Settlements on a daily basis. Any extra payments you have collected from Customers will be settled.\n\nJust keep collecting/accepting payments from Customers through QR/Payment Link & we take care of your repayments automatically.",
+                            "label": "How will a merchant repay the loan?",
+                            "value": "Freecharge Business Loan has an Easy Daily Installment (EDI) solution to repay the loan. Merchant just needs to accept payments on his QR and Freecharge Business will deduct the daily installment amount from daily settlements.",
                             "showContactUs": true
                         },
                         {
-                            "label": "What happens if daily instalment payment is missed on the loan?",
-                            "value": "We will deduct whatever amount is available from ypur collections for the day. Unpaid Installment Amount will be accumulated and we will attempt deducting this from future settlements.\n\nIt is recommended that you transact daily so that you don't miss paying back for the loan. Good repayment history will allow our partner to make more loan offers to you in Future.",
+                            "label": "What happens if the daily installment payment is missed on the loan?",
+                            "value": "We will deduct whatever amount is available from your collections for the day. Unpaid installment amounts will sum up and we will attempt deducting this from future settlements.\n\nNote -  It is recommended that you transact daily so that you don't miss paying back the loan. Good repayment history will allow our partner to make more loan offers to you in the Future.",
                             "showContactUs": true
                         },
                         {
-                            "label": "What happens if I stop transacting through Freecharge QR with an active loan?",
-                            "value": "A lien will be marked on your current account and the pending amount will be recovered from your current account.\n\nAxis Bank may charge Penalty Fees & take required action needed to collect any dues. For more details, you may contact Axis Bank at 1800 419 5577",
+                            "label": "What happens if a merchant stops transacting through Freecharge QR with an active loan?",
+                            "value": "A lien will be marked on the merchant's current account and the pending amount will be recovered. In addition, Axis Bank may also charge a penalty fee & take the required action needed to collect the dues.",
                             "showContactUs": true
                         },
                         {
-                            "label": "Where can I view the daily installments deducted for my loan?",
-                            "value": "You can view Loan Summary & repayment history on App. Tap on Loan Icon on App to acces this.\n\nYou can alternatively check your Loan Account from Axis Bank App or Website. You will see EMIs in Loan Account statements",
+                            "label": "Where can a merchant view the daily installments deducted from the loan?",
+                            "value": "Merchant can view the loan summary, repayment history or any other details on Freecharge Business App. Simply, visit the app and click on the Loan icon to access the details. Alternatively, loan amount can be checked from Axis Bank App or website.",
                             "showContactUs": true
                         },
                         {
-                            "label": "What happens when I complete my repayment?",
-                            "value": "Axis Bank will close the Loan at thier end and provide any No Dues certificate as per thier policy.\n\nAt Freecharge, we will stop repayments. You will start receiving your full settlements.",
+                            "label": "What happens when the repayment is completed?",
+                            "value": "Once the repayment is completed, we will stop deducting the amount and the merchant will start receiving full settlements. In addition,  Axis Bank will provide a 'No Dues' certificate for the loan.",
                             "showContactUs": true
                         }
                     ]
@@ -463,18 +367,13 @@
                     "key": "Loan Closure & Miscellaneous",
                     "value": [
                         {
-                            "label": "How can I close the Loan?",
-                            "value": "If you want to pre-close your loan, you will have contact Axis Bank directly. You may reach out to nearest loan center & get the required support.\n\nAlternatively, you may contact Axis Bank at 1800 419 5577",
+                            "label": "How can a merchant pre-close the Loan?",
+                            "value": "If a merchant wants to pre-close the loan, he will have to contact Axis Bank customer care or he can visit the nearest Axis Bank branch to get the required support.",
                             "showContactUs": true
                         },
                         {
-                            "label": "Axis Bank Support - Call",
-                            "value": "You can contact Axis Bank on Call at 1800 419 5577 for any queries you may have with respect to the loan.",
-                            "showContactUs": true
-                        },
-                        {
-                            "label": "Axis Bank Support - Email",
-                            "value": "As Email is not convenient, your are advised to connect Axis Bank via toll free number - 1800 419 5577. Alternatively, you can visit Axis Bank branch to get more info regarding your queries.",
+                            "label": "Axis Bank customer care support details?",
+                            "value": "You can reach Axis Bank customer care on the Toll free number - 1800 419 5577 or visit the nearest Axis Bank branch.",
                             "showContactUs": true
                         }
                     ]
